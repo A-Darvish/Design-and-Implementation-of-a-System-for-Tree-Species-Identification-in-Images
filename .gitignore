@@ -1,0 +1,6 @@
+*/__pycache__
+*/.conda
+features.csv
+plantDisease-resnet34.pth
+stacking_classifier.pkl
+svm_model.pkl

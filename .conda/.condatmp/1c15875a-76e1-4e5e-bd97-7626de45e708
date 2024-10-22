@@ -1,0 +1,13 @@
+prefix=d:/project/running projects/main/.conda/Library
+exec_prefix=d:/project/running projects/main/.conda/Library
+libdir=d:/project/running projects/main/.conda/Library/lib
+sharedlibdir=d:/project/running projects/main/.conda/Library/lib
+includedir=d:/project/running projects/main/.conda/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
