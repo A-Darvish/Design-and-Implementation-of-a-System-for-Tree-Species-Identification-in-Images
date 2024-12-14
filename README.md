@@ -74,7 +74,7 @@ Confusion matrices and detailed metrics are available in the repository.
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/A-Darvish/Tree-Species-Identification.git
-   cd tree-species-classification
+   cd Tree-Species-Identification
    ```
 
 2. **Run the web interface:**
