@@ -73,7 +73,7 @@ Confusion matrices and detailed metrics are available in the repository.
 ## **Usage**
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/tree-species-classification.git
+   git clone https://github.com/A-Darvish/Tree-Species-Identification.git
    cd tree-species-classification
    ```
 
@@ -111,8 +111,3 @@ Data Collection -> Preprocessing -> Feature Extraction -> Classification -> Web 
 ## **Contributors**
 - **Arvand Darvish**: Developed the project as part of a BSc thesis.
 - **Supervisor:** Dr. Ahmad Nickabadi.
-
----
-
-## **License**
-This project is licensed under the MIT License. See `LICENSE` for more details.
